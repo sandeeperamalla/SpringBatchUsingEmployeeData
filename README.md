@@ -23,5 +23,48 @@ The job follows this process:
 
 ___
 
+## **Project Setup**
+
+# **Prerequisites**
+
+- Java 11 or higher
+- Spring Boot 3.0+ (with Spring Batch 5.0)
+-  An IDE (e.g., IntelliJ IDEA, Eclipse) or terminal to run the project
+- Maven
+- A relational database ( MySQL)
+
+___
+  
+
+# **Dependencies**
+
+- Spring Batch
+- Spring Boot Starter Data JPA
+- Spring Boot Starter Web
+- H2 Database (for testing or replace with your preferred database)
+
+
+___
+
+
+### **Clone the Repository**
+
+Start by cloning the repository to your local machine:
+
+```bash
+git clone https://github.com/sandeeperamalla/SpringBatchUsingEmployeeData.git
+cd SpringBatchUsingEmployeeData
+```
+___
+
+### **Conclusion**
+-This project showcases how to use Spring Batch 5.0 to process data in a batch mode, read CSV files, and store the data into a database with Spring Data JPA. You can extend this project by adding more complex 
+ processing, error handling, and scheduling.
+
+___
+
+## **License**
+-This project is licensed under the MIT License - see the LICENSE file for details.
+
 
 
