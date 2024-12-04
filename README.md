@@ -47,7 +47,7 @@ ___
 ___
 
 
-### **Clone the Repository**
+## **Clone the Repository**
 
 Start by cloning the repository to your local machine:
 
@@ -57,7 +57,7 @@ cd SpringBatchUsingEmployeeData
 ```
 ___
 
-### **Conclusion**
+## **Conclusion**
 -This project showcases how to use Spring Batch 5.0 to process data in a batch mode, read CSV files, and store the data into a database with Spring Data JPA. You can extend this project by adding more complex 
  processing, error handling, and scheduling.
 
