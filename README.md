@@ -23,7 +23,6 @@ The job follows this process:
 
 ___
 
-## **Project Setup**
 
 # **Prerequisites**
 
